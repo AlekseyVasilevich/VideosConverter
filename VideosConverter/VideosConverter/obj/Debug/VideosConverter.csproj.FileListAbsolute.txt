@@ -1,0 +1,16 @@
+D:\projects\VideosConverter\VideosConverter\bin\Debug\VideosConverter.exe.config
+D:\projects\VideosConverter\VideosConverter\bin\Debug\VideosConverter.exe
+D:\projects\VideosConverter\VideosConverter\bin\Debug\VideosConverter.pdb
+D:\projects\VideosConverter\VideosConverter\obj\Debug\VideosConverter.csproj.AssemblyReference.cache
+D:\projects\VideosConverter\VideosConverter\obj\Debug\VideosConverter.csproj.SuggestedBindingRedirects.cache
+D:\projects\VideosConverter\VideosConverter\obj\Debug\VideosConverter.Properties.Resources.resources
+D:\projects\VideosConverter\VideosConverter\obj\Debug\VideosConverter.csproj.GenerateResource.cache
+D:\projects\VideosConverter\VideosConverter\obj\Debug\VideosConverter.csproj.CoreCompileInputs.cache
+D:\projects\VideosConverter\VideosConverter\obj\Debug\VideosConverter.exe
+D:\projects\VideosConverter\VideosConverter\obj\Debug\VideosConverter.pdb
+D:\projects\VideosConverter\VideosConverter\bin\Debug\Newtonsoft.Json.dll
+D:\projects\VideosConverter\VideosConverter\bin\Debug\Xabe.FFmpeg.dll
+D:\projects\VideosConverter\VideosConverter\bin\Debug\Newtonsoft.Json.xml
+D:\projects\VideosConverter\VideosConverter\bin\Debug\Xabe.FFmpeg.xml
+D:\projects\VideosConverter\VideosConverter\obj\Debug\VideosConverter.Form1.resources
+D:\projects\VideosConverter\VideosConverter\obj\Debug\VideosConverter.csproj.CopyComplete
